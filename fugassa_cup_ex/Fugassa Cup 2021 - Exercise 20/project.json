@@ -1,0 +1,401 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "Disegno",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0000.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.8,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "X",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0001.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.3,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 2,
+                "name": "Y",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0002.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.3,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0002.mp4",
+                "in_project_thumbnail": "thumb_0002.jpg",
+                "in_project_id": 2,
+                "parent_id": 2
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 3,
+                "name": "AX e AY",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0003.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0003.mp4",
+                "in_project_thumbnail": "thumb_0003.jpg",
+                "in_project_id": 3,
+                "parent_id": 3
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 4,
+                "name": "BN e CM",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0004.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.8,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0004.mp4",
+                "in_project_thumbnail": "thumb_0004.jpg",
+                "in_project_id": 4,
+                "parent_id": 4
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 5,
+                "name": "V e AVM",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0005.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.3,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0005.mp4",
+                "in_project_thumbnail": "thumb_0005.jpg",
+                "in_project_id": 5,
+                "parent_id": 5
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 6,
+                "name": "Angolo AVM",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0006.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.5,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0006.mp4",
+                "in_project_thumbnail": "thumb_0006.jpg",
+                "in_project_id": 6,
+                "parent_id": 6
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 7,
+                "name": "angolo ABC",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0007.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0007.mp4",
+                "in_project_thumbnail": "thumb_0007.jpg",
+                "in_project_id": 7,
+                "parent_id": 7
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 8,
+                "name": "Angoli retti",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0008.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.5,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0008.mp4",
+                "in_project_thumbnail": "thumb_0008.jpg",
+                "in_project_id": 8,
+                "parent_id": 8
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 9,
+                "name": "BAY e AYB",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0009.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0009.mp4",
+                "in_project_thumbnail": "thumb_0009.jpg",
+                "in_project_id": 9,
+                "parent_id": 9
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 10,
+                "name": "Calcoli",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0010.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0010.mp4",
+                "in_project_thumbnail": "thumb_0010.jpg",
+                "in_project_id": 10,
+                "parent_id": 10
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 11,
+                "name": "Calcoli",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0011.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 4.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0011.mp4",
+                "in_project_thumbnail": "thumb_0011.jpg",
+                "in_project_id": 11,
+                "parent_id": 11
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 12,
+                "name": "Cerchio",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0012.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0012.mp4",
+                "in_project_thumbnail": "thumb_0012.jpg",
+                "in_project_id": 12,
+                "parent_id": 12
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 13,
+                "name": "XV e AVX",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0013.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.5,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0013.mp4",
+                "in_project_thumbnail": "thumb_0013.jpg",
+                "in_project_id": 13,
+                "parent_id": 13
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 14,
+                "name": "Arco",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0014.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 0.75,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0014.mp4",
+                "in_project_thumbnail": "thumb_0014.jpg",
+                "in_project_id": 14,
+                "parent_id": 14
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 15,
+                "name": "Calcoli",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0015.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.25,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0015.mp4",
+                "in_project_thumbnail": "thumb_0015.jpg",
+                "in_project_id": 15,
+                "parent_id": 15
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 16,
+                "name": "Calcoli",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0016.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 2.5,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0016.mp4",
+                "in_project_thumbnail": "thumb_0016.jpg",
+                "in_project_id": 16,
+                "parent_id": 16
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 17,
+                "name": "Risultato",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0017.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 1.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0017.mp4",
+                "in_project_thumbnail": "thumb_0017.jpg",
+                "in_project_id": 17,
+                "parent_id": 17
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 18,
+                "name": "Calcoli",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "/home/franfill/Documents/Projects/manim/fugassa_cup_ex/media/videos/main/1080p60/sections/exercise_0018.mp4",
+                "width": 1920,
+                "height": 1080,
+                "fps": "60",
+                "duration": 3.0,
+                "project_name": "Fugassa Cup 2021 - Exercise 20",
+                "in_project_video": "video_0018.mp4",
+                "in_project_thumbnail": "thumb_0018.jpg",
+                "in_project_id": 18,
+                "parent_id": 18
+            }
+        ]
+    }
+]

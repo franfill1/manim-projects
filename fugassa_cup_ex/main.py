@@ -2,6 +2,7 @@ from manim import *
 from manim_editor import PresentationSectionType
 from math import *
 import numpy as np
+
 def get_angle(A, B, C):
     A1 = A-B
     C1 = C-B
@@ -22,7 +23,7 @@ def get_intersection(p0, p1, q0, q1):
     return p0*s + p1*(1-s)
     
     
-class sensore(Scene):
+class exercise(Scene):
     def construct(self):
         
         textScale = 0.8
