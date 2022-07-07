@@ -1,9 +1,8 @@
 from manim import *
-from manim import OpenGLVMobject
 from math import *
 import random
 
-class Node(OpenGLVMobject):
+class Node(VMobject):
 	def __init__(self, label):
 		super().__init__()
 		self.body = Circle().set_stroke(color=WHITE).set_fill(color=BLACK, opacity=0.8)
@@ -40,7 +39,7 @@ class Node(OpenGLVMobject):
 		y *= self.body.width/2
 		return [self.get_x() + x, self.get_y() + y, 0]
 
-class Edge(OpenGLVMobject):
+class Edge(VMobject):
 	def __init__(self, A, B):
 		super().__init__()
 		self.nodeA = A
